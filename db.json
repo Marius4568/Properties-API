@@ -1,0 +1,34 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "city": "Särkisalo",
+      "price": 876000,
+      "photo": "http://dummyimage.com/219x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 2,
+      "city": "Lengshuijing",
+      "price": 874000,
+      "photo": "http://dummyimage.com/159x100.png/dddddd/000000"
+    },
+    {
+      "id": 3,
+      "city": "Hanyuan",
+      "price": 827000,
+      "photo": "http://dummyimage.com/158x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 4,
+      "city": "Wangcun",
+      "price": 471000,
+      "photo": "http://dummyimage.com/174x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 5,
+      "city": "Codrington",
+      "price": 180000,
+      "photo": "http://dummyimage.com/229x100.png/dddddd/000000"
+    }
+  ]
+}
